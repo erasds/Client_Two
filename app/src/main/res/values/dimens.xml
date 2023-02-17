@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sv_margins">10dp</dimen>
+    <dimen name="text_padding">10dp</dimen>
+    <dimen name="text_dimens">50dp</dimen>
+    <dimen name="text_border">5dp</dimen>
+</resources>
